@@ -8,4 +8,4 @@ Lots of links for getting started doing web design - [article](http://mashable.c
 
 Building a twitter clone with Redis and PHP - [article](http://redis.io/topics/twitter-clone)
 
-[What is REST, and how to use it](http://www.restapitutorial.com/)
+What is REST, and how to use it - [article](http://www.restapitutorial.com/)

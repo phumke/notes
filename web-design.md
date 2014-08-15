@@ -9,3 +9,10 @@ Lots of links for getting started doing web design - [article](http://mashable.c
 Building a twitter clone with Redis and PHP - [article](http://redis.io/topics/twitter-clone)
 
 What is REST, and how to use it - [article](http://www.restapitutorial.com/)
+
+Setting up a LAMP stack - [article](http://www.howtoforge.com/ubuntu_lamp_for_newbies)
+
+Setting up a WAMP stack - [article](http://www.wampserver.com/en/)
+
+Setting up a MAMP or XAMPP stack - [article](http://www.dwuser.com/education/content/why-you-need-a-testing-server-and-how-to-do-it/)
+

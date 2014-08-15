@@ -7,3 +7,5 @@ Rates web sites on a number of factors, great place to get design ideas - [artic
 Lots of links for getting started doing web design - [article](http://mashable.com/2010/07/23/web-design-resources-beginners/)
 
 Building a twitter clone with Redis and PHP - [article](http://redis.io/topics/twitter-clone)
+
+[What is REST, and how to use it](http://www.restapitutorial.com/)

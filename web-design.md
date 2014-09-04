@@ -1,4 +1,4 @@
-Creating a web app from scratch [article](http://css-tricks.com/app-from-scratch-1-design/)
+Creating a web app from scratch - [article](http://css-tricks.com/app-from-scratch-1-design/)
 
 Lots of links for getting started doing web design - [article](http://mashable.com/2010/07/23/web-design-resources-beginners/)
 
@@ -18,3 +18,4 @@ Setting up a WAMP stack - [article](http://www.wampserver.com/en/)
 
 Setting up a MAMP or XAMPP stack - [article](http://www.dwuser.com/education/content/why-you-need-a-testing-server-and-how-to-do-it/)
 
+Marketing your own personal projects - [article](https://www.discovermeteor.com/blog/marketing-your-personal-projects)

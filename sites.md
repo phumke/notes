@@ -1,5 +1,7 @@
 http://www.bootstrappers.io/
 
+http://www.stocksy.com/
+
 http://leetcode.com/
 
 http://codepen.io/chriscoyier/pen/lotjh

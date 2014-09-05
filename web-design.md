@@ -19,3 +19,5 @@ Setting up a WAMP stack - [article](http://www.wampserver.com/en/)
 Setting up a MAMP or XAMPP stack - [article](http://www.dwuser.com/education/content/why-you-need-a-testing-server-and-how-to-do-it/)
 
 Marketing your own personal projects - [article](https://www.discovermeteor.com/blog/marketing-your-personal-projects)
+
+How this dude set up his minimum value sites - [article](https://levels.io/how-i-build-my-minimum-viable-products/)

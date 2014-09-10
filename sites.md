@@ -23,3 +23,9 @@ http://www.codecademy.com
 http://www.treehouse.com
 
 http://www.codeschool.com
+
+http://www.coursera.com
+
+http://www.kahnacademy.com
+
+http://www.udacity.com

@@ -1,5 +1,7 @@
 http://www.bootstrappers.io/
 
+http://www.startupdigest.com
+
 http://www.stocksy.com/
 
 http://leetcode.com/

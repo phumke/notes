@@ -35,3 +35,5 @@ http://www.udacity.com
 http://jsfiddle.net/
 
 http://ayende.com/blog/168802/career-planning-where-do-old-devs-go-to
+
+http://www.mit.edu/~xela/tao.html
